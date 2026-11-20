@@ -1,0 +1,12 @@
+DATA_DIR = C:/Users/user/Downloads/WDM_and_HQI_v1.1/data 
+OUT_DIR  = C:/Users/user/Downloads/WDM_and_HQI_v1.1/results 
+FULL_RUN = FALSE 
+compared 168 (n, d, quantity) triples
+maximum absolute difference between closed form and recursion: 1.545e-13
+  quantity     abs_diff
+1      Cov 1.854072e-14
+2      E_R 4.218847e-15
+3    Var_R 1.554312e-15
+4  Var_tau 1.545430e-13
+
+=== exit code 0 ===

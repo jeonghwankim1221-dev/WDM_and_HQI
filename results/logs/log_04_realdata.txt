@@ -1,0 +1,37 @@
+DATA_DIR = C:/Users/user/Downloads/WDM_and_HQI_v1.1/data 
+OUT_DIR  = C:/Users/user/Downloads/WDM_and_HQI_v1.1/results 
+FULL_RUN = FALSE 
+
+== quakes / rank ==
+N = 1000, d = 5, psi = 256, 8 subsamples x 100 trees -> C:/Users/user/Downloads/WDM_and_HQI_v1.1/results/realdata_quakes_rank.csv
+
+== quakes / raw ==
+N = 1000, d = 5, psi = 256, 8 subsamples x 100 trees -> C:/Users/user/Downloads/WDM_and_HQI_v1.1/results/realdata_quakes_raw.csv
+
+== magic / rank ==
+N = 19020, d = 10, psi = 256, 8 subsamples x 100 trees -> C:/Users/user/Downloads/WDM_and_HQI_v1.1/results/realdata_magic_rank.csv
+
+== magic / raw ==
+N = 19020, d = 10, psi = 256, 8 subsamples x 100 trees -> C:/Users/user/Downloads/WDM_and_HQI_v1.1/results/realdata_magic_raw.csv
+
+== wine_white / rank ==
+N = 4898, d = 11, psi = 256, 8 subsamples x 100 trees -> C:/Users/user/Downloads/WDM_and_HQI_v1.1/results/realdata_wine_white_rank.csv
+
+== wine_white / raw ==
+N = 4898, d = 11, psi = 256, 8 subsamples x 100 trees -> C:/Users/user/Downloads/WDM_and_HQI_v1.1/results/realdata_wine_white_raw.csv
+
+== letter / rank ==
+N = 20000, d = 16, psi = 256, 8 subsamples x 100 trees -> C:/Users/user/Downloads/WDM_and_HQI_v1.1/results/realdata_letter_rank.csv
+
+== letter / raw ==
+N = 20000, d = 16, psi = 256, 8 subsamples x 100 trees -> C:/Users/user/Downloads/WDM_and_HQI_v1.1/results/realdata_letter_raw.csv
+
+== supercond / rank ==
+N = 21263, d = 81, psi = 256, 8 subsamples x 100 trees -> C:/Users/user/Downloads/WDM_and_HQI_v1.1/results/realdata_supercond_rank.csv
+
+== supercond / raw ==
+N = 21263, d = 81, psi = 256, 8 subsamples x 100 trees -> C:/Users/user/Downloads/WDM_and_HQI_v1.1/results/realdata_supercond_raw.csv
+
+All components written to C:/Users/user/Downloads/WDM_and_HQI_v1.1/results 
+
+=== exit code 0 ===

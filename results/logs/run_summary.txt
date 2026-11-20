@@ -1,0 +1,14 @@
+run started 2026-11-20 21:42:39.55  (FULL=0)
+script                                  exit  output  elapsed
+--------------------------------------  ----  ------  -------
+01_exact_simul_figures.R                0     ok     0m07s
+02_closed_forms.R                       0     ok     0m00s
+03_supp_table1.R                        0     ok     0m09s
+04_realdata.R                           0     ok     0m30s
+05_table2_extdata_table2.R              0     ok     0m01s
+06_supp_table2_forest.R                 0     ok     0m25s
+07_supp_table3_copula.R                 0     ok     4m57s
+08_supp_tables4_5_split_rules.R         0     ok     0m49s
+09_supp_table6_zeta_limits.R            0     ok     0m36s
+10_supp_tables7_9_maximal_state.R       0     ok     8m02s
+11_supp_note11_third_moment.R           0     ok     0m00s

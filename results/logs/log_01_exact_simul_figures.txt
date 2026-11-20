@@ -1,0 +1,41 @@
+DATA_DIR = C:/Users/user/Downloads/WDM_and_HQI_v1.1/data 
+OUT_DIR  = C:/Users/user/Downloads/WDM_and_HQI_v1.1/results 
+FULL_RUN = FALSE 
+exact computation ...
+simulation loaded from cache
+     d  E_tau    E_R     E_M Var_tau  Var_R     Cov    E_v  Var_h
+1    1 8.2565 1.9922 11.2487  9.5322 1.9121 -1.8799 0.7023 1.2098
+2    2 9.0892 1.1595  2.9922  7.7934 0.7290 -0.4189 0.1962 0.5328
+3    3 9.3347 0.9140  2.1595  7.5541 0.4435 -0.1565 0.0838 0.3597
+4    4 9.4423 0.8064  1.9140  7.4950 0.3370 -0.0737 0.0429 0.2941
+5    5 9.4981 0.7506  1.8064  7.4756 0.2874 -0.0392 0.0242 0.2632
+10  10 9.5729 0.6758  1.6806  7.4626 0.2285 -0.0033 0.0023 0.2262
+21 100 9.5820 0.6667  1.6667  7.4623 0.2222  0.0000 0.0000 0.2222
+22 Inf 9.5820 0.6667  1.6667  7.4623 0.2222  0.0000 0.0000 0.2222
+null device 
+          1 
+column sums vs Theorem 3 (max abs diff): d=1 2.498002e-16  d=Inf 3.885781e-16 
+null device 
+          1 
+band areas: d=1 8.257 / 1.992, d=Inf 9.582 / 0.667
+null device 
+          1 
+    d limit P_H_le_limit P_tau_gt_limit steps_beyond_before_entry
+1   1     8        0.273          0.463                      1.34
+2   2     8        0.273          0.567                      1.71
+3   5     8        0.273          0.626                      1.96
+4  10     8        0.273          0.637                      2.01
+5 Inf     8        0.273          0.639                      2.02
+  steps_beyond_residual   E_R residual_share_of_E_R
+1                 1.190 1.992                 0.598
+2                 0.823 1.159                 0.710
+3                 0.572 0.751                 0.763
+4                 0.521 0.676                 0.770
+5                 0.514 0.667                 0.771
+null device 
+          1 
+null device 
+          1 
+figures and source data written to C:/Users/user/Downloads/WDM_and_HQI_v1.1/results 
+
+=== exit code 0 ===

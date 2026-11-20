@@ -1,0 +1,27 @@
+DATA_DIR = C:/Users/user/Downloads/WDM_and_HQI_v1.1/data 
+OUT_DIR  = C:/Users/user/Downloads/WDM_and_HQI_v1.1/results 
+FULL_RUN = FALSE 
+output folder: C:/Users/user/Downloads/WDM_and_HQI_v1.1/results
+n = 256, d = 1 : 8 samples x 200 trees
+n = 256, d = 2 : 8 samples x 200 trees
+n = 256, d = 3 : 8 samples x 200 trees
+n = 256, d = 5 : 8 samples x 200 trees
+n = 256, d = 10 : 8 samples x 200 trees
+n = 256, d = 20 : 8 samples x 200 trees
+n = 256, d = 50 : 8 samples x 200 trees
+n = 256, d = 100 : 8 samples x 200 trees
+
+n = 256, theory Var(H) = 7.6845 (dimension-free)
+  d   Var(H|X)  between_obs  between_tree |  Var(tau|X) between_obs between_tree |  Var(R|X) between_obs between_tree | share_obs(H)
+  1     7.592      1.314        6.278   |     9.440      1.919       7.521   |    1.912      0.283       1.629   |   0.173
+  2     7.557      1.225        6.331   |     7.647      1.290       6.357   |    0.725      0.026       0.699   |   0.162
+  3     7.887      1.256        6.631   |     7.758      1.286       6.472   |    0.442      0.008       0.434   |   0.159
+  5     7.699      1.025        6.675   |     7.491      1.021       6.470   |    0.289      0.003       0.286   |   0.133
+ 10     7.692      0.713        6.979   |     7.466      0.685       6.781   |    0.229      0.002       0.227   |   0.093
+ 20     7.713      0.447        7.265   |     7.494      0.427       7.068   |    0.222      0.001       0.221   |   0.058
+ 50     7.657      0.198        7.459   |     7.428      0.188       7.241   |    0.222      0.001       0.221   |   0.026
+100     7.707      0.136        7.571   |     7.484      0.130       7.354   |    0.222      0.001       0.221   |   0.018
+
+written: C:/Users/user/Downloads/WDM_and_HQI_v1.1/results/SuppTable2_forest_variance.csv 
+
+=== exit code 0 ===

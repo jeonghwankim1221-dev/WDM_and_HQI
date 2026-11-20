@@ -1,0 +1,69 @@
+DATA_DIR = C:/Users/user/Downloads/WDM_and_HQI_v1.1/data 
+OUT_DIR  = C:/Users/user/Downloads/WDM_and_HQI_v1.1/results 
+FULL_RUN = FALSE 
+Extended Data Table 2:
+    dataset             kind     E_tau       E_R     V_tau       V_R E_tau_pct
+     quakes           theory  9.498139 0.7505509  7.475560 0.2873567        NA
+     quakes              raw 10.721392 0.7539258 12.111083 0.3091775 12.878866
+     quakes rank_transformed  9.704136 0.7660791  8.609884 0.3073776  2.168811
+      magic           theory  9.572921 0.6757691  7.462620 0.2285188        NA
+      magic              raw 12.265029 0.6557471 19.038944 0.2428957 28.122121
+      magic rank_transformed  9.967109 0.6728174  9.302977 0.2402563  4.117745
+ wine_white           theory  9.576032 0.6726584  7.462471 0.2263305        NA
+ wine_white              raw 12.273145 0.6561621 18.698438 0.2353139 28.165248
+ wine_white rank_transformed  9.773862 0.6756543  8.328974 0.2300830  2.065895
+     letter           theory  9.581256 0.6674341  7.462330 0.2227375        NA
+     letter              raw 12.081997 0.6480713 19.257731 0.2307014 26.100350
+     letter rank_transformed  9.746411 0.6619092  8.136545 0.2269302  1.723734
+  supercond           theory  9.582023 0.6666667  7.462326 0.2222222        NA
+  supercond              raw 12.596309 0.6328027 24.326478 0.2327923 31.457713
+  supercond rank_transformed 10.143862 0.6510352 10.228354 0.2278957  5.863470
+    E_R_pct  V_tau_pct  V_R_pct
+         NA         NA       NA
+  0.4496545  62.009044 7.593615
+  2.0689078  15.173764 6.967274
+         NA         NA       NA
+ -2.9628442 155.124132 6.291346
+ -0.4367870  24.661009 5.136337
+         NA         NA       NA
+ -2.4524044 150.566308 3.969152
+  0.4453796  11.611476 1.657947
+         NA         NA       NA
+ -2.9010879 158.065908 3.575434
+ -0.8277911   9.034905 1.882335
+         NA         NA       NA
+ -5.0795898 225.990556 4.756531
+ -2.3447266  37.066562 2.553087
+
+Table 2:
+    dataset       quota         D_tau          D_v          D_h           D_c
+     quakes   dimension  1.323380e-02 2.419392e-02 4.094056e-02 -7.836828e-02
+     quakes arrangement  1.134324e+00 7.829618e-03 1.219131e-02 -3.515855e-02
+      magic   dimension  2.940203e-04 2.339707e-03 3.956884e-03 -6.590611e-03
+      magic arrangement  1.840357e+00 2.857505e-03 8.879991e-03 -2.085599e-03
+ wine_white   dimension  1.450231e-04 1.528857e-03 2.579441e-03 -4.253322e-03
+ wine_white arrangement  8.665030e-01 2.210700e-03 1.541741e-03  1.937098e-02
+     letter   dimension  4.518736e-06 1.927510e-04 3.225564e-04 -5.198261e-04
+     letter arrangement  6.742145e-01 7.526486e-04 3.440018e-03 -2.189197e-03
+  supercond   dimension -1.705303e-13 6.815819e-16 1.387779e-15  1.421085e-14
+  supercond arrangement  2.766028e+00 3.240095e-04 5.349518e-03  2.135743e-02
+         delta
+ -8.388423e-02
+  2.059967e-01
+ -9.102388e-03
+  3.941885e-01
+ -5.991747e-03
+  1.978308e-01
+ -7.674733e-04
+  1.651553e-01
+ -2.486900e-14
+  5.618390e-01
+
+written: C:/Users/user/Downloads/WDM_and_HQI_v1.1/results/ExtDataTable2_real_data_depths.csv and Table2_dimension_arrangement.csv
+null device 
+          1 
+Fig. 4 written from Extended Data Table 2 (reference E(H) = 10.249, Var(H) = 7.685 for psi = 256)
+
+written: C:/Users/user/Downloads/WDM_and_HQI_v1.1/results/ExtDataTable2_real_data_depths.csv and Table2_dimension_arrangement.csv
+
+=== exit code 0 ===

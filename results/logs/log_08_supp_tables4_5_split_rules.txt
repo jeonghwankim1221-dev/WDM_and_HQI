@@ -1,0 +1,37 @@
+DATA_DIR = C:/Users/user/Downloads/WDM_and_HQI_v1.1/data 
+OUT_DIR  = C:/Users/user/Downloads/WDM_and_HQI_v1.1/results 
+FULL_RUN = FALSE 
+Supp. Table 4  d = 2, r = 1
+Supp. Table 4  d = 2, r = 2 (all variables)
+Supp. Table 4  d = 3, r = 1
+Supp. Table 4  d = 3, r = 2
+Supp. Table 4  d = 3, r = 3 (all variables)
+Supp. Table 4  d = 5, r = 1
+Supp. Table 4  d = 5, r = 2
+Supp. Table 4  d = 5, r = 3
+Supp. Table 4  d = 5, r = 5 (all variables)
+Supp. Table 4  d = 10, r = 1
+Supp. Table 4  d = 10, r = 2
+Supp. Table 4  d = 10, r = 3
+Supp. Table 4  d = 10, r = 10 (all variables)
+
+Supp. Table 4  E(H) by r (rows) and d (cols); r = 1 theory = 2H_n - 2 = 10.2487
+  r  mean_H.2  mean_H.3  mean_H.5 mean_H.10
+  1 10.275308 10.246467 10.252078 10.261392
+  2  5.635674  5.641775  5.647354  5.652861
+  3        NA  4.061697  4.066155  4.056292
+  5        NA        NA  2.765928        NA
+ 10        NA        NA        NA  1.737261
+Supp. Table 5  arity = 2
+Supp. Table 5  arity = 4
+
+Supp. Table 5  mean number of extreme observations in a node of size m (d = 3)
+  m  binary four_ary  theory
+  2 2.00000   2.0000 2.00000
+  4 0.49973   0.4902 0.50000
+  8 0.12226   0.1170 0.12500
+ 16 0.02598   0.0313 0.03125
+
+written: C:/Users/user/Downloads/WDM_and_HQI_v1.1/results/SuppTable4_split_rules.csv and SuppTable5_occupancy.csv
+
+=== exit code 0 ===
